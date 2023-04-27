@@ -1,0 +1,46 @@
+body {
+    background-color: palevioletred;
+  }
+  
+  h1{
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: blanchedalmond;
+  }
+
+  img {
+    display: block;
+    margin: 0 auto;
+  }
+  
+
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    color: blanchedalmond;
+    font-size: x-large;
+    text-align: left;
+}
+
+div{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: normal;
+    color: black;
+    font-size: medium;
+}
+
+#homepage {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    font-size: larger;
+  }
+  
+#backtotop{
+    position: relative;
+    bottom: 0;
+    left: 0;
+    font-size: medium;
+} 
